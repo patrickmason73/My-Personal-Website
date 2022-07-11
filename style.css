@@ -8,3 +8,16 @@ body {
     color: blueviolet;
     background-color: black;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    object-fit: contain;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    border-width: 20px;
+    border-color: black;
+}
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=a03121656f&attid=0.1.1&permmsgid=msg-f:1738013404987482956&th=181ea9fbc325634c&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_lBaQSl3ru7t2COw-ST9qHqNc_btMPGyVQX8nCQTC6QwDPaxR7CZULuE9ENW9_3y2xjGzoOt7nTM_pFEzrmJ3Ab27oYj4iC2-B6HvqECED4HqKS2GOJatxOjo&disp=emb" alt="Me">
